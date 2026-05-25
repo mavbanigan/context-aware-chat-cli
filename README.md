@@ -17,7 +17,6 @@ It maintains full conversation history, so the model remembers previous messages
    pip install -r requirements.txt
 
 3. Create a .env file in the project root and add your OpenAI API key
-   OPENAI_API_KEY=your-key-here
 
 4. Run the chatbot
    python chat.py
