@@ -19,7 +19,6 @@ It maintains full conversation history, so the model remembers previous messages
 3. Create a .env file in the project root and add your OpenAI API key
 
 4. Run the chatbot
-   python chat.py
 
 ## Usage
 - Type any message and press Enter to chat
